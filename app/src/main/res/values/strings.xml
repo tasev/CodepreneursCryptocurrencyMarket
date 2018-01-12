@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CryptocurrencyMarket</string>
+
+    <!-- API -->
+    <string name="error_message">Something went wrong…</string>
+    <string name="title_cud">CNY</string>
+    <string name="title_usd">USD</string>
+    <string name="title_eur">EUR</string>
+    <string name="search">Search</string>
+    <string name="limit_prompt">Choose a limit</string>
+    <string name="choose_currency">Choose currency</string>
+
+    <string-array name="limit_array">
+        <item>10</item>
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+        <item>400</item>
+        <item>500</item>
+        <item>1000</item>
+    </string-array>
+
+    <integer-array name="limit_array_int">
+        <item>10</item>
+        <item>100</item>
+        <item>200</item>
+        <item>300</item>
+        <item>400</item>
+        <item>500</item>
+        <item>1000</item>
+    </integer-array>
+
+</resources>
