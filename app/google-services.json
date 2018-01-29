@@ -1,0 +1,166 @@
+{
+  "project_info": {
+    "project_number": "561721686652",
+    "firebase_url": "https://annanow-1feb8.firebaseio.com",
+    "project_id": "annanow-1feb8",
+    "storage_bucket": "annanow-1feb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561721686652:android:dfab0e2bad206adf",
+        "android_client_info": {
+          "package_name": "com.annanow.android.postman.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561721686652-ejvo4ghpnvpneold0lcc9ap387fm2ku4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN6llugQOaI5nmx6kIgfGM0a2bODtr9wA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561721686652:android:60f9ac021ba4aa8b",
+        "android_client_info": {
+          "package_name": "com.annanow.android.tracker.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561721686652-ejvo4ghpnvpneold0lcc9ap387fm2ku4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN6llugQOaI5nmx6kIgfGM0a2bODtr9wA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561721686652:android:1b893ed30a22715f",
+        "android_client_info": {
+          "package_name": "com.annanow.android.postman.redesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561721686652-ejvo4ghpnvpneold0lcc9ap387fm2ku4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN6llugQOaI5nmx6kIgfGM0a2bODtr9wA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561721686652:android:e1f79aaf3f7006ee",
+        "android_client_info": {
+          "package_name": "com.annanow.android.tracker.redesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561721686652-ejvo4ghpnvpneold0lcc9ap387fm2ku4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN6llugQOaI5nmx6kIgfGM0a2bODtr9wA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561721686652:android:bc29f8f30b539644",
+        "android_client_info": {
+          "package_name": "market.cryptocurrency.codepreneurs.com.codepreneurscryptocurrencymarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561721686652-ejvo4ghpnvpneold0lcc9ap387fm2ku4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN6llugQOaI5nmx6kIgfGM0a2bODtr9wA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

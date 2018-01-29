@@ -51,4 +51,11 @@ dependencies {
 
     //Picasso
     compile 'com.squareup.picasso:picasso:2.5.2'
+
+    // firebase
+    compile 'com.google.firebase:firebase-core:11.8.0'
+    compile 'com.google.firebase:firebase-messaging:11.8.0'
+    // Getting a "Could not find" error? Make sure you have
+    // added the Google maven respository to your root build.gradle
 }
+apply plugin: 'com.google.gms.google-services'
