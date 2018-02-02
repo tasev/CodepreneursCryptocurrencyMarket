@@ -10,6 +10,13 @@
     <string name="limit_prompt">Choose a limit</string>
     <string name="choose_currency">Choose currency</string>
 
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="action_save">Save</string>
+    <string name="action_logout">Log Out</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+
     <string-array name="limit_array">
         <item>10</item>
         <item>100</item>
