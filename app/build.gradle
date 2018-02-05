@@ -1,5 +1,21 @@
-apply plugin: 'com.android.application'
+buildscript {
+    repositories {
+        maven { url 'https://maven.fabric.io/public' }
+    }
 
+    dependencies {
+        classpath 'io.fabric.tools:gradle:1.+'
+    }
+}
+apply plugin: 'com.android.application'
+apply plugin: 'io.fabric'
+
+repositories {
+    maven { url 'https://maven.fabric.io/public' }
+    maven { url "https://jitpack.io" }
+    jcenter()
+    google()
+}
 android {
     compileSdkVersion 26
     defaultConfig {
@@ -58,5 +74,9 @@ dependencies {
     compile 'com.google.firebase:firebase-database:11.8.0'
     // Getting a "Could not find" error? Make sure you have
     // added the Google maven respository to your root build.gradle
+
+    compile('com.crashlytics.sdk.android:crashlytics:2.7.1@aar') {
+        transitive = true
+    }
 }
 apply plugin: 'com.google.gms.google-services'
